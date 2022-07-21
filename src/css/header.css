@@ -1,0 +1,47 @@
+.nav__container{
+    width: 80%;
+    margin: 2rem auto;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav__bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 2rem;
+}
+
+.nav__items{
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 2rem;
+    aspect-ratio: 1 / 1;
+    padding: 2rem;
+    color: white;
+    background-color: #303030;
+    box-shadow: 0px 0px 10px -3px rgba(0,0,0,1);
+    border-radius: 50%;
+    letter-spacing: 2px;
+    font-size: 20px;
+    transition: background-color .25s ease;
+}
+.nav__items:hover {
+    background-color: black;
+    animation: jiggle .2s linear;
+}
+
+@keyframes jiggle {
+    50% {
+        transform: rotateZ(45deg);
+    }
+    100% {
+        transform: rotateZ(-45deg);
+    }
+}

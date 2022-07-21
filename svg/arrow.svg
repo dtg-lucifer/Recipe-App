@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 1422 800">
+    <g stroke-width="10" stroke="hsl(227, 71%, 57%)" fill="none" stroke-linecap="square" stroke-dasharray="0 222" transform="rotate(314, 711, 400)">
+        <line x1="683.5" y1="372.5" x2="738.5" y2="427.5" marker-end="url(#SvgjsMarker1267)"></line>
+    </g>
+    <defs>
+        <marker markerWidth="17" markerHeight="17" refX="8.5" refY="8.5" viewBox="0 0 17 17" orient="auto" id="SvgjsMarker1267">
+            <polyline points="0,8.5 8.5,4.25 0,0" fill="none" stroke-width="2.8333333333333335" stroke="hsl(227, 71%, 57%)" stroke-linecap="square" transform="matrix(1,0,0,1,2.8333333333333335,4.25)"></polyline>
+        </marker>
+    </defs>
+</svg>

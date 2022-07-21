@@ -1,0 +1,10 @@
+.veggie__container {
+    padding: 1rem 6rem;
+    margin: 1rem auto;
+    max-width: 80%;
+}
+.veggie__container h2 {
+    font-size: 35px;
+    margin: 2rem;
+    position: relative;
+}
